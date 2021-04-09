@@ -7,7 +7,7 @@ Construir um site que exiba um catálogo de produtos do Supermercado Show!
 
 Você deverá fazer um fork neste repositório. A entrega deverá ser efetuada até às 23:59 do dia combinado (verificar com seu entrevistador). **O prazo não deverá passar 3 dias!** Disponibilizar o link do projeto hospedado em plataformas como o Heroku e o código fonte deve ser hosperado no seu repositório (após feito o Fork). Faça uma branch separada e crie um pull request mirando na master.
 
-A organização e estrutura da interface para a exibição dos dados ficam a seu critério. Lembrando que na avaliação levaremos em consideração os aspectos visuais e quão "fácil" é de entender a disposição dos elementos nas telas. É importante que o seu código seja compreensível, busque fazer uso otimizado da tecnologia e seja de fácil manutenção. **Levaremos em conta esses aspectos na avaliação**.
+A organização e estrutura da interface para a exibição dos dados ficam a seu critério. Lembrando que na avaliação levaremos em consideração os aspectos visuais e quão "fácil" é de entender a disposição dos elementos nas telas. É importante que o seu código seja compreensível, busque fazer uso otimizado da tecnologia e seja de fácil manutenção.
 
 **OBS:** desde que a essência dos requisitos básicos sejam respeitados, aceitamos mudanças na arquitetura da informação proposta e nas disposições das telas.
 
