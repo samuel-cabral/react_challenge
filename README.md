@@ -1,4 +1,4 @@
-# **Teste React**
+# **React Challenge**
 
 ### Objetivo 
 Construir um site que exiba um catálogo de produtos do Supermercado Show!
