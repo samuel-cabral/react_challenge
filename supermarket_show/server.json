@@ -1,0 +1,104 @@
+{
+  "stock": [
+    {
+      "id": 12345,
+      "amount": 5
+    },
+    {
+      "id": 1235454,
+      "amount": 5
+    },
+    {
+      "id": 1233456,
+      "amount": 2
+    },
+    {
+      "id": 4,
+      "amount": 1
+    },
+    {
+      "id": 5,
+      "amount": 5
+    },
+    {
+      "id": 6,
+      "amount": 10
+    }
+  ],
+  "products": [
+    {
+      "id": 12345,
+      "price": 4.99,
+      "image": "https://merconnect.s3.amazonaws.com/uploads/products/0762cc690ada9c4f79fde676eaa4c3ade9210d74.png",
+      "title": "ABACAXI UNIDADE",
+      "offer": 3.99
+    },
+    {
+      "id": 1235454,
+      "price": 10.22,
+      "image": "https://merconnect.s3.amazonaws.com/uploads/products/7891035017001-min.png",
+      "title": "ALVEJANTE VANISH RESOLV 500ML",
+      "promotion": {
+        "kind": "buy-x-take-y",
+        "base": 3,
+        "value": 4
+      }
+    },
+    {
+      "id": 1233456,
+      "price": 4.22,
+      "image": "https://merconnect.s3.amazonaws.com/uploads/products/7501006705591-min.png",
+      "title": "ABSORVENTE ALWAYS PROTETOR DIARIO LEVE 40 PAGUE 35 UNIDADES"
+    },
+    {
+      "id": 12334567,
+      "price": 15.99,
+      "image": "https://merconnect.s3.amazonaws.com/uploads/products/7898927944414-min.png",
+      "title": "ACAI AMAZON 200G COM BANANA",
+      "offer": 13.99
+    },
+    {
+      "id": 34534,
+      "price": 5.10,
+      "image": "https://merconnect.s3.amazonaws.com/uploads/products/7898951554917-min.png",
+      "title": "ACAFRAO DA TERRA FIEL POTE"
+    },
+    {
+      "id": 12334578,
+      "price": 20.50,
+      "image": "https://merconnect.s3.amazonaws.com/uploads/products/621d48fc6489fb420cf08c747fc397da57034005.png",
+      "title": "LEITE EM PO BOM DU LEITE INTEGRAL 800G",
+      "offer": 18.98,
+      "promotion": {
+        "kind": "buy-x-take-y",
+        "base": 2,
+        "value": 3
+      }
+    },
+    {
+      "id": 8470328,
+      "price": 1.22,
+      "image": "https://merconnect.s3.amazonaws.com/uploads/products/7898961498010-min.png",
+      "title": "ACELGA HORTE E CIA"
+    },
+    {
+      "id": 1233456789,
+      "price": 30.84,
+      "image": "https://merconnect.s3.amazonaws.com/uploads/products/4b3421deea7b20aa9c95d84df2e209b63ece3fb6.png",
+      "title": "ACÉM BOVINO MOIDO FRESCO",
+      "offer": 28.99
+    },
+    {
+      "id": 1234,
+      "price": 90.22,
+      "image": "https://merconnect.s3.amazonaws.com/uploads/products/7896196061825-min.png",
+      "title": "ACETO BALSAMICO ORGANICO LA PASTINA 250ML"
+    },
+    {
+      "id": 123,
+      "price": 30.22,
+      "image": "https://merconnect.s3.amazonaws.com/uploads/products/7897161360165-min.png",
+      "title": "ACETONA ALYNE 100ML"
+    }
+  ]
+}
